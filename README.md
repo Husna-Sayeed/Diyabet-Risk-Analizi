@@ -40,7 +40,7 @@ Diyabet, dünya genelinde milyonlarca insanın yaşam kalitesini etkileyen ve sa
    - Semptom bazlı analizler.  
 
 3. **Veri Dengesizliği Çözümü**  
-   - **SMOTE** ile sınıf dengesizliği giderildi.  
+   - **SMOTE** yöntemi ile sınıf dengesizliği giderildi.  
 
 4. **Makine Öğrenmesi Modelleri**  
    - Logistic Regression  
@@ -72,8 +72,4 @@ Diyabet, dünya genelinde milyonlarca insanın yaşam kalitesini etkileyen ve sa
 - XGBoost ve Logistic Regression modelleri de güçlü performans gösterdi.  
 - Analizler, belirli semptomların diyabet tahmininde kritik rol oynadığını ortaya koydu.  
 - Bireysel risk yüzdeleri hesaplanarak klinik karar süreçlerine katkı sağlandı.  
-
----
-
-## 📂 Proje Yapısı
 
